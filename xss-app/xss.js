@@ -4,4 +4,4 @@ function show_alert()
 }
 
 
-$(document).ready(show_alert);
+$(document).ready(show_alert());
